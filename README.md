@@ -1,1 +1,1 @@
-new line -
+[![GitHub Actions Demo](https://github.com/ppeter777/hexlet-my-first-workflow/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/ppeter777/hexlet-my-first-workflow/actions/workflows/github-actions-demo.yml)

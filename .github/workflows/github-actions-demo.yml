@@ -4,6 +4,7 @@ on: [push]
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
-    uses: actions/checkout@v2
     steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
       - run: make say-hello
